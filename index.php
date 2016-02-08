@@ -6,8 +6,9 @@
  * Time: 17:29
  */
 
+echo "Hello, world!";
 
+echo "114514";
 
-
-phpinfo();
+echo 1 + 2 + 5;
 
